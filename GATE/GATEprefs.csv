@@ -1,0 +1,655 @@
+Name,Employee ID,GATE_1st Weekend,GATE_2nd Weekend,GATE_City1,GATE_City2,GATE_City3,GATE_City4,GATE_City5,GATE_City6,GATE_City7,GATE_City8,GATE_City9,GATE_City10
+Uthale,12040,yes,yes,Hyderabad,Goa,Bhavnagar,Amravati,Nagpur,Nanded,Ahmedabad,Jalgaon,Aurangabad,Ahmedabad
+Vasant,12041,yes,yes,Hyderabad,Goa,Mehsana,Bhuj,Bhavnagar,Nanded,Gandhinagar,Nagpur,Kolhapur,Ahmedabad
+Hariprasad,12042,yes,yes,Ahmedabad,Rajkot,Vadodara,Gandhinagar,Mehsana,Bhuj,Bhavnagar,Hyderabad,Ratnagiri,Secunderabad
+Asmita,12043,yes,yes,Hyderabad,Surat,Ahmedabad,Goa,Nagpur,Bhavnagar,Jalgaon,Anand,Nanded,Amravati
+Kiran,12044,yes,yes,Goa,Pune,Gandhinagar,Surat,Satara,Ahmednagar,Ahmedabad,Nanded,Kolhapur,Amravati
+Rajan,12045,yes,yes,Hyderabad,Nagpur,Kolhapur,Vadodara,Surat,Aurangabad,Secunderabad,Solapur,Jalgaon,Ahmednagar
+Manaswita,12046,yes,yes,Bhuj,Rajkot,Ahmedabad,Nagpur,Bhavnagar,Sangli,Goa,Aurangabad,,Anand
+Nitin,12047,yes,yes,Hyderabad,Secunderabad,Navi Mumbai,Mumbai,,,,,,
+Ragesh,12048,yes,yes,Goa,Hyderabad,Secunderabad,Gandhinagar,Vadodara,Anand,,,,
+Santosh,12049,yes,yes,Hyderabad,Aurangabad,Ahmednagar,Nagpur,Solapur,Surat,Sangli,Pune,Secunderabad,Ahmednagar
+Tarun,12050,no,yes,Pune,Nashik,Goa,Nagpur,Ahmedabad,Kolhapur,Vadodara,Hyderabad,Bhavnagar,
+Kushal,12051,yes,yes,Hyderabad,Goa,Secunderabad,Vadodara,Ratnagiri,Jalgaon,Solapur,,,
+Pranali,12052,yes,no,Kolhapur,Nashik,Ahmednagar,Amravati,Sangli,Satara,Navi Mumbai,Mumbai,Any city,Any city
+Mule,12053,yes,yes,Hyderabad,Secunderabad,Goa,Nagpur,Kolhapur,Aurangabad,Ahmednagar,Bhuj,Solapur,Nanded
+Subhash,12054,yes,no,Hyderabad,Secunderabad,Pune,,,,,,,
+Dipak,12055,no,yes,Hyderabad,Jalgaon,Rajkot,Vadodara,Anand,Aurangabad,Secunderabad,Goa,Bhuj,Amravati
+Anirban,12056,yes,no,Hyderabad,Rajkot,Secunderabad,Vadodara,Ahmedabad,Anand,Goa,Mehsana,Solapur,Bhavnagar
+Ganesh,12057,yes,yes,Ratnagiri,Amravati,Anand,Bhuj,Bhavnagar,Nanded,Mehsana,Ahmednagar,Nanded,Mehsana
+Bhamble,12058,yes,yes,Hyderabad,Secunderabad,Kolhapur,Nagpur,Solapur,Ahmedabad,Bhavnagar,Anand,Nanded,Satara
+Paradkar,12059,yes,no,Hyderabad,Ratnagiri,Secunderabad,Gandhinagar,Ahmedabad,Bhuj,Anand,Goa,Mehsana,Nagpur
+Bhagwan,12060,yes,yes,Any city,,,,,,,,,
+Azizuddin,12061,yes,yes,Satara,Kolhapur,Nagpur,Goa,Hyderabad,Aurangabad,Sangli,Nanded,Gandhinagar,Any city
+Shaunak,12062,yes,no,Hyderabad,Goa,Secunderabad,Pune,Amravati,Nanded,Ahmednagar,Nashik,Aurangabad,
+Ranjana,12063,yes,yes,Ahmednagar,Amravati,Aurangabad,Hyderabad,Jalgaon,Kolhapur,Nagpur,Sangli,Ratnagiri,Satara
+Nancy,12064,yes,no,Hyderabad,Secunderabad,Pune,,,,,,,
+Sreedhara,12065,no,yes,Mumbai,Navi Mumbai,Thane,Pune,Nashik,,,,,
+Halijwale,12066,yes,no,Mumbai,Thane,Pune,,,,,,,
+Ramasubramanian,12067,yes,yes,Ratnagiri,Pune,Thane,Mumbai,Navi Mumbai,Nashik,Aurangabad,,,
+Debasish,12068,yes,yes,Kolhapur,Goa,Secunderabad,Ratnagiri,Hyderabad,Solapur,Hyderabad,Nagpur,Pune,
+Sarathy,12069,yes,yes,Ahmedabad,Kolhapur,Hyderabad,Gandhinagar,Secunderabad,Nagpur,Bhavnagar,Pune,Sangli,Ratnagiri
+Iyer,12070,no,yes,Goa,Vadodara,Ahmedabad,Mehsana,Nanded,Nagpur,Kolhapur,Secunderabad,Solapur,Bhavnagar
+Ratikanta,12071,yes,yes,Secunderabad,Hyderabad,Goa,Pune,Anand,Rajkot,Jalgaon,Ahmedabad,Nagpur,Bhuj
+Vaibhavee,12072,yes,yes,Goa,Kolhapur,Ratnagiri,Pune,Nashik,Vadodara,Gandhinagar,Ahmedabad,Mehsana,Rajkot
+Prasad,12073,yes,yes,Hyderabad,Amravati,Goa,Ahmedabad,Bhavnagar,Gandhinagar,Kolhapur,Nagpur,Nanded,Aurangabad
+Vidyadhar,12074,yes,yes,Any city,,,,,,,,,
+Saurabh,12075,no,yes,Secunderabad,,,,,,,,,
+Balakrishnan,12076,yes,yes,Mumbai,Navi Mumbai,,Thane,,,,,,
+Charine,12077,yes,yes,Bhuj,Bhavnagar,Goa,Ahmednagar,Hyderabad,Secunderabad,Aurangabad,Kolhapur,Nashik,Mehsana
+Anthony,12078,yes,yes,Hyderabad,Rajkot,Goa,Bhavnagar,Mehsana,Secunderabad,Vadodara,Nanded,Nagpur,Pune
+Rupesh,12079,yes,no,Hyderabad,Goa,Aurangabad,Nagpur,Nashik,Nanded,,Ahmedabad,Bhavnagar,Kolhapur
+shobha,12080,yes,yes,Any city,,,,,,,,,
+Pradnya,12081,yes,yes,Any city,,,,,,,,,
+Deepak,12082,yes,yes,Any city,Vadodara,Gandhinagar,Hyderabad,Goa,Kolhapur,Sangli,Satara,Nashik,Pune
+Surendra,12083,yes,yes,Any city,,,,,,,,,
+Karuna,12084,yes,yes,Any city,Any city,Any city,,,,,,,
+A,12085,no,yes,Goa,Hyderabad,Nanded,Nagpur,Bhavnagar,Anand,Nashik,Rajkot,Secunderabad,Vadodara
+Dulal,12086,yes,no,Pune,Amravati,Mumbai,Navi Mumbai,Bhuj,Nashik,Bhavnagar,Gandhinagar,Jalgaon,Amravati
+Pundlik,12087,yes,yes,Goa,Hyderabad,Ahmedabad,Gandhinagar,Nagpur,Kolhapur,Ahmednagar,Nanded,Bhavnagar,Aurangabad
+Ashok,12088,no,yes,Aurangabad,Goa,Ahmedabad,,,,,,,
+Vrindha,12089,yes,no,Ahmedabad,Vadodara,,,,,,,,
+Varsha,12090,yes,no,Secunderabad,Bhuj,Rajkot,Goa,Vadodara,Goa,Nagpur,Anand,Bhavnagar,Kolhapur
+Sagar,12091,yes,no,Hyderabad,Goa,Aurangabad,Nagpur,Nashik,Ahmedabad,,,Gandhinagar,Bhavnagar
+Mr,12092,yes,no,Mumbai,Pune,Navi Mumbai,Thane,Goa,Ahmedabad,,,,
+Gopal,12093,yes,yes,Kolhapur,Pune,,,,,,,,
+Nitin,12094,yes,yes,Rajkot,Anand,Bhavnagar,Bhuj,Goa,Kolhapur,Hyderabad,Ahmedabad,Surat,Mehsana
+Pandey,12095,yes,no,Hyderabad,Goa,Aurangabad,Nagpur,Nashik,Ahmedabad,Bhavnagar,Kolhapur,Ratnagiri,Satara
+Suresh,12096,no,yes,Aurangabad,Goa,Ratnagiri,Nagpur,Secunderabad,Jalgaon,Rajkot,Vadodara,Nanded,Anand
+Tara,12097,yes,yes,Hyderabad,Nagpur,Rajkot,Vadodara,Secunderabad,Solapur,Ratnagiri,Sangli,Kolhapur,Pune
+Amarjit,12098,yes,yes,Goa,Hyderabad,Ahmedabad,Aurangabad,Bhuj,Gandhinagar,Vadodara,Kolhapur,Nagpur,Nanded
+Vidya,12099,yes,no,Ahmedabad,Hyderabad,Goa,Gandhinagar,Nagpur,Rajkot,Secunderabad,Vadodara,Surat,Kolhapur
+Anagha,12100,yes,yes,Goa,Hyderabad,Secunderabad,Vadodara,Nagpur,Ahmedabad,Bhuj,Anand,,
+Bhogale,12101,yes,no,Goa,Aurangabad,Nanded,Amravati,Kolhapur,,,,,
+Nitin,12102,yes,yes,Mumbai,Thane,Navi Mumbai,,,,,,,
+Anindya,12103,yes,yes,Aurangabad,Jalgaon,Goa,Nanded,Rajkot,Bhavnagar,Ratnagiri,Satara,Bhuj,Vadodara
+Itty,12104,yes,no,Rajkot,Hyderabad,,,,,,,,
+Harish,12105,yes,yes,Bhavnagar,Mehsana,Gandhinagar,Hyderabad,Bhuj,Goa,Kolhapur,Nagpur,Nanded,Amravati
+dinesh,12106,yes,yes,Ahmedabad,Hyderabad,Secunderabad,Solapur,Surat,Gandhinagar,Goa,Bhuj,Rajkot,Vadodara
+Sanjay,12107,yes,yes,Hyderabad,Secunderabad,Goa,Nagpur,Rajkot,Ahmedabad,Gandhinagar,Anand,Amravati,Vadodara
+Ninad,12108,yes,yes,Ahmedabad,Mehsana,Bhavnagar,Anand,Rajkot,Bhuj,Goa,Gandhinagar,Nagpur,Vadodara
+Arun,12109,yes,yes,Ahmedabad,Mehsana,Bhavnagar,Anand,Rajkot,Bhuj,Goa,Mumbai,Navi Mumbai,Thane
+Deepak,12110,yes,yes,Hyderabad,Kolhapur,Nagpur,Aurangabad,Bhuj,Bhavnagar,Secunderabad,Nanded,Solapur,Surat
+Gurudatta,12111,yes,yes,Nanded,Bhavnagar,Bhuj,Anand,Goa,Hyderabad,Ahmedabad,Ahmednagar,Nagpur,Mehsana
+Avijit,12112,yes,yes,Bhuj,Aurangabad,Anand,Ratnagiri,Kolhapur,Nanded,Rajkot,Sangli,Satara,Any city
+K,12113,yes,yes,Hyderabad,Secunderabad,Nagpur,Goa,Solapur,Ratnagiri,Amravati,Kolhapur,Gandhinagar,Nashik
+Manjunath,12114,yes,yes,Rajkot,Hyderabad,Nanded,Nagpur,Bhavnagar,Bhuj,Gandhinagar,Mehsana,Anand,Secunderabad
+Swanandi,12115,yes,yes,Ahmedabad,Bhuj,Aurangabad,Hyderabad,Jalgaon,Nagpur,Amravati,Nanded,Goa,Kolhapur
+Josephine,12116,yes,yes,Nanded,Kolhapur,Nashik,Pune,Aurangabad,Amravati,Nagpur,,,
+Prashant,12117,yes,yes,Pune,Aurangabad,Amravati,Nashik,Ratnagiri,Kolhapur,Goa,Vadodara,Gandhinagar,Secunderabad
+Ramakant,12118,yes,no,Secunderabad,Anand,Surat,Goa,Hyderabad,Kolhapur,Amravati,Nashik,Nanded,Ratnagiri
+Arjun,12119,no,yes,Mumbai,Pune,Nagpur,Hyderabad,Nashik,Navi Mumbai,Goa,Surat,Thane,Vadodara
+Rajakishore,12120,yes,yes,Nanded,Aurangabad,Bhavnagar,Nagpur,Mehsana,Jalgaon,Anand,Nashik,Kolhapur,Ahmednagar
+Geeta,12121,yes,yes,Goa,Ratnagiri,Nagpur,Hyderabad,Kolhapur,Bhuj,Bhavnagar,Ahmedabad,Sangli,Solapur
+Amit,12122,yes,yes,Secunderabad,Ratnagiri,Nagpur,Goa,Hyderabad,Kolhapur,Pune,Amravati,,
+Santiram,12123,no,yes,Ahmedabad,Hyderabad,Goa,Rajkot,Kolhapur,Bhuj,Secunderabad,Pune,Ratnagiri,Surat
+Arindam,12124,yes,yes,Kolhapur,Bhavnagar,Rajkot,Bhuj,Solapur,Amravati,Aurangabad,Hyderabad,Sangli,Satara
+Prakash,12125,yes,yes,Ahmedabad,Hyderabad,Goa,Sangli,Nagpur,Nanded,Rajkot,Secunderabad,Kolhapur,Mehsana
+Shilpa,12126,yes,yes,Nashik,Pune,Sangli,Satara,Kolhapur,,,,,
+Suraj,12127,yes,yes,Aurangabad,Ahmedabad,Nagpur,Vadodara,Gandhinagar,Rajkot,,,,
+Prof,12128,yes,yes,Aurangabad,Nagpur,Goa,Amravati,Nashik,Gandhinagar,Kolhapur,Bhavnagar,Mehsana,Any city
+Dharamveer,12129,yes,yes,Hyderabad,Mehsana,Ahmedabad,Goa,Anand,Kolhapur,Bhavnagar,Nagpur,Nashik,Pune
+Vikas,12130,yes,no,Hyderabad,Secunderabad,Ratnagiri,Kolhapur,Nagpur,Ahmedabad,Nashik,Goa,Vadodara,Pune
+Viren,12131,yes,yes,Ahmedabad,Mehsana,Bhavnagar,Anand,Rajkot,Bhuj,Goa,Mumbai,Navi Mumbai,Thane
+Virghat,12132,yes,yes,Ahmedabad,Anand,Bhavnagar,Gandhinagar,Hyderabad,Kolhapur,Mehsana,Nashik,Aurangabad,Bhuj
+D,12133,yes,no,Hyderabad,Secunderabad,Nagpur,Ahmedabad,Nashik,Rajkot,Surat,Pune,Vadodara,Secunderabad
+Shamit,12134,yes,yes,Goa,Hyderabad,Nagpur,Ahmedabad,Rajkot,,Gandhinagar,Secunderabad,,
+Yogesh,12135,yes,yes,Hyderabad,Secunderabad,Rajkot,Ahmednagar,Ahmedabad,Anand,Bhavnagar,Vadodara,Surat,Mehsana
+Satish,12136,yes,no,Anand,Bhavnagar,Aurangabad,Kolhapur,Nanded,Goa,Pune,Nashik,Solapur,Sangli
+Biwalkar,12137,yes,no,Hyderabad,Ratnagiri,Sangli,Pune,Satara,Anand,Bhuj,Nanded,Nashik,Rajkot
+Sachin,12138,no,yes,Any city,,,,,,,,,
+Vikram,12139,yes,yes,Hyderabad,Nagpur,Goa,Aurangabad,Amravati,Kolhapur,Bhavnagar,Mehsana,Nanded,Bhuj
+Surve,12140,yes,yes,Aurangabad,Solapur,Secunderabad,Hyderabad,Gandhinagar,Ahmedabad,Nanded,Pune,Bhavnagar,Nagpur
+Neeraj,12141,no,yes,Hyderabad,Goa,Secunderabad,Nagpur,Ahmedabad,Bhavnagar,Gandhinagar,Aurangabad,Mehsana,Bhuj
+J,12142,yes,yes,Pune,Hyderabad,Ahmedabad,Bhavnagar,Nashik,Ratnagiri,Satara,Sangli,Kolhapur,Solapur
+Samant,12143,yes,yes,Mumbai,Navi Mumbai,Thane,Pune,,,,,,
+Vijaya,12144,yes,yes,Any city,,,,,,,,,
+Y,12145,yes,yes,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city
+Nilam,12146,yes,yes,Hyderabad,Goa,Aurangabad,Kolhapur,Nagpur,Mehsana,Bhavnagar,Gandhinagar,Amravati,Nanded
+Ashish,12147,yes,yes,Solapur,Aurangabad,Amravati,Gandhinagar,Ahmednagar,Kolhapur,Rajkot,Jalgaon,Hyderabad,Pune
+Suraj,12148,yes,yes,Hyderabad,,Goa,Ahmedabad,Amravati,Nagpur,Aurangabad,Kolhapur,Nanded,Mehsana
+Ghatol,12149,yes,yes,Nanded,Amravati,Ahmednagar,Jalgaon,Kolhapur,Sangli,Satara,Goa,Solapur,Ratnagiri
+Balvant,12150,yes,no,Surat,Aurangabad,Bhavnagar,Nashik,Gandhinagar,Goa,Hyderabad,Kolhapur,Ahmedabad,Pune
+Srinivas,12151,yes,no,Hyderabad,Goa,Aurangabad,Nagpur,Nashik,Ahmedabad,Nanded,Bhavnagar,Kolhapur,
+Pranali,12152,yes,yes,Rajkot,Ahmedabad,Hyderabad,Nagpur,Goa,Kolhapur,Nashik,Vadodara,Solapur,Pune
+Elanjikal,12153,yes,yes,Hyderabad,Secunderabad,Ahmedabad,Rajkot,Goa,Gandhinagar,Nagpur,,,
+Kusher,12154,yes,yes,Ahmedabad,Hyderabad,Gandhinagar,Nagpur,Rajkot,Secunderabad,Vadodara,Kolhapur,Aurangabad,Amravati
+Nand,12155,yes,yes,Hyderabad,Secunderabad,Anand,Bhavnagar,Bhuj,Mehsana,Amravati,Nanded,Ahmednagar,Kolhapur
+Nanda,12156,yes,yes,Hyderabad,Nagpur,Ahmedabad,Amravati,Bhavnagar,Aurangabad,Anand,Ahmednagar,Mehsana,Kolhapur
+Santosh,12157,yes,yes,Bhuj,Rajkot,Rajkot,Secunderabad,Kolhapur,Nagpur,Vadodara,Ahmedabad,Bhavnagar,Goa
+Sushant,12158,yes,yes,Kolhapur,Bhavnagar,Aurangabad,Bhuj,Nanded,Mehsana,Solapur,Secunderabad,Satara,Ratnagiri
+Kanchan,12159,yes,yes,Rajkot,Nagpur,Anand,Vadodara,,,,,,
+Lata,12160,yes,yes,Nanded,Nagpur,Anand,Ahmednagar,Jalgaon,Gandhinagar,Bhuj,Ahmedabad,Goa,Bhavnagar
+Sandeep,12161,yes,no,Mehsana,Anand,Gandhinagar,Hyderabad,Kolhapur,Aurangabad,Goa,Ahmedabad,Bhuj,Nagpur
+Upadhyay,12162,yes,no,Mumbai,Navi Mumbai,Thane,Pune,Nashik,Ahmedabad,Gandhinagar,Nagpur,Goa,Hyderabad
+Jitesh,12163,yes,no,Ahmedabad,Goa,Aurangabad,Gandhinagar,Bhuj,Bhavnagar,Mehsana,Anand,Hyderabad,Nagpur
+Swapnali,12164,yes,yes,Nanded,Ahmedabad,Nagpur,Hyderabad,Secunderabad,Ahmednagar,Anand,Nashik,Bhavnagar,Kolhapur
+Kadam,12165,yes,yes,Nanded,Nagpur,Secunderabad,Anand,Ahmedabad,Hyderabad,Ahmednagar,Nashik,Bhavnagar,Kolhapur
+Runika,12166,yes,yes,Pune,Mumbai,Navi Mumbai,Thane,,,,,,
+dharmesh,12167,yes,yes,Nashik,Vadodara,Surat,Pune,Ahmedabad,Aurangabad,Anand,Gandhinagar,Hyderabad,Goa
+Venkatasailanathan,12168,yes,yes,Hyderabad,Ahmedabad,Bhavnagar,Secunderabad,Rajkot,Nagpur,Satara,Pune,Kolhapur,Vadodara
+Arindrajit,12169,yes,no,Secunderabad,Hyderabad,Rajkot,Vadodara,,,,,,
+Arun,12170,yes,no,Pune,Mumbai,Navi Mumbai,Thane,Surat,,,,,
+Anmol,12171,yes,yes,Ratnagiri,Kolhapur,Ahmednagar,Hyderabad,Secunderabad,Sangli,Mehsana,Bhuj,Goa,Ahmedabad
+Sandeep,12172,yes,yes,Aurangabad,Ahmedabad,Goa,Nagpur,Hyderabad,Rajkot,Ratnagiri,Secunderabad,Surat,Pune
+Jayanta,12173,yes,no,Goa,Hyderabad,Ahmedabad,Secunderabad,Nashik,Gandhinagar,Aurangabad,Nagpur,Anand,Mumbai
+Bhan,12174,yes,yes,Pune,Goa,Nashik,Aurangabad,Kolhapur,Satara,Jalgaon,Ratnagiri,Surat,Sangli
+Umesh,12175,no,yes,Any city,,,,,,,,,
+Hare,12176,yes,no,Bhuj,Mehsana,Hyderabad,,,,,,,
+Gupta,12177,yes,yes,Bhavnagar,Hyderabad,Aurangabad,Gandhinagar,Kolhapur,Nashik,Nanded,Goa,Bhuj,Anand
+Bharath,12178,yes,yes,Hyderabad,Secunderabad,Mumbai,Navi Mumbai,Thane,,,,,
+Janga,12179,no,yes,Ahmedabad,Nagpur,Hyderabad,Goa,,,,,,
+Varsha,12180,yes,yes,Pune,Nashik,Aurangabad,Amravati,Satara,Sangli,Jalgaon,Solapur,Surat,Ratnagiri
+Mahagaonkar,12181,yes,yes,Ahmedabad,Aurangabad,Nagpur,Goa,Rajkot,Pune,Gandhinagar,Hyderabad,Secunderabad,Nashik
+Maheshwar,12182,yes,yes,Kolhapur,Bhavnagar,Rajkot,Bhuj,Solapur,Amravati,Aurangabad,Hyderabad,Sangli,Satara
+Anand,12183,yes,yes,Aurangabad,Ahmedabad,Goa,Nagpur,Rajkot,Hyderabad,Mehsana,Kolhapur,Solapur,Secunderabad
+Ganesh,12184,yes,yes,Ahmedabad,Bhavnagar,Aurangabad,Goa,Hyderabad,Gandhinagar,Nagpur,Any city,Mumbai,Navi Mumbai
+Sandeep,12185,yes,yes,Surat,Pune,Ahmedabad,Hyderabad,Nashik,Anand,Bhavnagar,Jalgaon,Goa,Vadodara
+Swati,12186,yes,no,Nashik,Mumbai,,,,,,,,
+Sagar,12187,yes,no,Goa,Hyderabad,Secunderabad,Rajkot,Nanded,Mehsana,Vadodara,Kolhapur,Nagpur,Solapur
+Koli,12188,no,yes,Hyderabad,Vadodara,Nashik,Secunderabad,Ratnagiri,,,,,
+George,12189,yes,yes,Ahmedabad,Aurangabad,Ahmednagar,Kolhapur,Nashik,Solapur,Surat,Gandhinagar,Goa,Any city
+Tarun,12190,yes,yes,Bhuj,Secunderabad,Hyderabad,Goa,Kolhapur,Rajkot,Ratnagiri,Nashik,Nagpur,Any city
+Ajit,12191,yes,yes,Ahmedabad,Aurangabad,Mehsana,Goa,Anand,Bhavnagar,Gandhinagar,Hyderabad,Kolhapur,Jalgaon
+Sneha,12192,yes,yes,Aurangabad,Ahmedabad,Goa,Nagpur,Rajkot,Hyderabad,Secunderabad,Mehsana,Pune,
+Arjun,12193,no,yes,Ahmedabad,Gandhinagar,Nagpur,Hyderabad,Secunderabad,Vadodara,Rajkot,Sangli,Solapur,Amravati
+Jugalkishor,12194,yes,yes,Any city,,,,,,,,,
+Sundaresan,12195,yes,yes,Hyderabad,Secunderabad,Ahmedabad,Aurangabad,Goa,Gandhinagar,Mumbai,Navi Mumbai,Thane,Kolhapur
+mithun,12196,yes,no,Ahmedabad,Vadodara,Mehsana,Rajkot,Surat,Bhavnagar,Bhuj,Pune,Hyderabad,Secunderabad
+Bhatade,12197,yes,yes,Goa,,,,,,,,,
+Sangeeta,12198,yes,yes,Nagpur,Ahmedabad,Nashik,Aurangabad,Kolhapur,Pune,Jalgaon,Gandhinagar,Nanded,Any city
+Dhiraj,12199,yes,yes,Mumbai,Thane,Navi Mumbai,Pune,,,,,,
+Prashant,12200,no,yes,Pune,Goa,Nashik,Rajkot,Navi Mumbai,Mumbai,,,,
+Ganesh,12201,yes,yes,Pune,Nagpur,Goa,Nashik,Ahmedabad,Hyderabad,Gandhinagar,Rajkot,Aurangabad,Kolhapur
+Virendra,12202,yes,yes,Hyderabad,Ahmedabad,Nagpur,Aurangabad,Nanded,Nashik,Pune,Vadodara,Surat,Anand
+Aniruddha,12203,yes,yes,Pune,Ratnagiri,Goa,Mumbai,Navi Mumbai,Kolhapur,Thane,Satara,Hyderabad,Nashik
+Lisa,12204,yes,yes,Any city,,,,,,,,,
+Ajay,12205,yes,yes,Goa,Hyderabad,Secunderabad,Rajkot,Vadodara,Anand,Aurangabad,Solapur,Ratnagiri,Surat
+Jadhav,12206,yes,yes,Vadodara,Ahmedabad,Rajkot,Gandhinagar,Bhuj,Kolhapur,Bhavnagar,Anand,Mehsana,Sangli
+Darshan,12207,yes,no,Nagpur,Hyderabad,Goa,Nashik,Navi Mumbai,Mumbai,,,,
+Ranjith,12208,yes,yes,Goa,Hyderabad,Rajkot,Secunderabad,Anand,Bhuj,Gandhinagar,Mehsana,Nashik,Any city
+Surendran,12209,no,yes,Ahmedabad,Hyderabad,Aurangabad,Surat,Goa,Gandhinagar,Rajkot,Secunderabad,Nashik,Kolhapur
+Nair,12210,yes,yes,Pune,Nashik,Nagpur,Kolhapur,Goa,Hyderabad,Anand,Surat,Gandhinagar,Vadodara
+Debasattam,12211,yes,yes,Ratnagiri,Goa,Nagpur,Rajkot,Kolhapur,Nashik,Sangli,Surat,Vadodara,Bhuj
+Ashok,12212,yes,yes,Rajkot,Aurangabad,Vadodara,Nagpur,Ahmedabad,Gandhinagar,Hyderabad,Secunderabad,Kolhapur,Goa
+Ramakant,12213,yes,yes,Aurangabad,Vadodara,Kolhapur,Hyderabad,Secunderabad,Nagpur,Rajkot,Surat,Solapur,Amravati
+Arunkumar,12214,yes,yes,Rajkot,Amravati,Kolhapur,Solapur,Nanded,Ahmedabad,Sangli,Aurangabad,Hyderabad,Secunderabad
+Vijaya,12215,yes,yes,Pune,Nashik,Goa,Ratnagiri,Gandhinagar,Anand,Ahmedabad,Mumbai,Navi Mumbai,Hyderabad
+Santosh,12216,yes,yes,Nagpur,Solapur,Gandhinagar,Ahmedabad,Jalgaon,Kolhapur,Sangli,Satara,Hyderabad,Goa
+Vimala,12217,yes,no,Mumbai,Navi Mumbai,Thane,,,,,,,
+Avinash,12218,yes,yes,Aurangabad,Vadodara,Kolhapur,Hyderabad,Secunderabad,Nagpur,Rajkot,Surat,Solapur,Amravati
+Javed,12219,yes,yes,Secunderabad,Hyderabad,Rajkot,Gandhinagar,Bhuj,Ahmedabad,Goa,Nagpur,Aurangabad,Vadodara
+Mahendra,12220,no,yes,Hyderabad,Nanded,Kolhapur,Sangli,Satara,Jalgaon,Mehsana,Bhavnagar,Ahmednagar,Ratnagiri
+Manjita,12221,yes,yes,Rajkot,Amravati,Kolhapur,Solapur,Nanded,Ahmedabad,Sangli,Aurangabad,Hyderabad,Secunderabad
+Anita,12222,yes,yes,Kolhapur,Surat,Ratnagiri,Bhavnagar,Amravati,Nagpur,Nanded,Anand,Pune,Nashik
+K,12223,yes,no,Mumbai,Navi Mumbai,Thane,,,,,,,
+Gopalan,12224,yes,no,Hyderabad,Goa,Aurangabad,Nagpur,Nashik,Ahmedabad,Nanded,Bhavnagar,Any city,Any city
+Rahul,12225,yes,yes,Secunderabad,Hyderabad,Rajkot,Ahmedabad,Bhuj,Mehsana,Vadodara,Nagpur,Kolhapur,Gandhinagar
+Anand,12226,no,yes,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai
+Sarmalkar,12227,yes,yes,Hyderabad,Goa,Aurangabad,Nanded,Nashik,Kolhapur,Nagpur,Amravati,Pune,Secunderabad
+Sasalekar,12228,yes,yes,Hyderabad,Pune,Nagpur,Goa,Surat,Ratnagiri,Kolhapur,Rajkot,Ahmedabad,Nashik
+Vijaya,12229,yes,no,Gandhinagar,Goa,Hyderabad,Mehsana,Secunderabad,Nagpur,Vadodara,Ratnagiri,Solapur,Ahmedabad
+Subrahmanyam,12230,yes,yes,Any city,,,,,,,,,
+Asmita,12231,yes,yes,Aurangabad,Vadodara,Kolhapur,Hyderabad,Secunderabad,Nagpur,Rajkot,Surat,Solapur,Amravati
+pankaj,12232,yes,yes,Rajkot,Bhuj,Bhavnagar,Anand,Vadodara,Hyderabad,Secunderabad,Nagpur,Goa,Any city
+Enamundram,12233,yes,yes,Ahmedabad,Aurangabad,Hyderabad,Nagpur,Bhavnagar,Bhuj,Surat,Satara,Pune,Nashik
+vijay,12234,yes,yes,Secunderabad,Hyderabad,Ahmedabad,Goa,Surat,Gandhinagar,Vadodara,Kolhapur,Nashik,Any city
+Mahadev,12235,yes,yes,Mumbai,Navi Mumbai,Thane,,,,,,,
+Ravindra,12236,yes,yes,Secunderabad,Hyderabad,Rajkot,Gandhinagar,Bhuj,Ahmedabad,Goa,Nagpur,Aurangabad,Vadodara
+Kadu,12237,no,yes,Mumbai,Kolhapur,Nashik,Navi Mumbai,Thane,,,,,
+Niteen,12238,yes,yes,Navi Mumbai,Mumbai,Thane,Navi Mumbai,Mumbai,Thane,Navi Mumbai,Mumbai,Navi Mumbai,Thane
+Khanderao,12239,yes,yes,Mumbai,Thane,Navi Mumbai,,,,,,,
+Mangesh,12240,yes,yes,Hyderabad,Secunderabad,Rajkot,Ahmednagar,Ahmedabad,Anand,Bhavnagar,Vadodara,Surat,Mehsana
+Mayura,12241,yes,yes,Ratnagiri,Aurangabad,Hyderabad,Secunderabad,Kolhapur,Nagpur,Nashik,Pune,Ahmedabad,Bhuj
+Anil,12242,yes,yes,Thane,Mumbai,Navi Mumbai,,,,,,,
+Arnab,12243,yes,yes,Rajkot,Aurangabad,Vadodara,Nagpur,Ahmedabad,Gandhinagar,Hyderabad,Secunderabad,Kolhapur,Goa
+Vinayak,12244,yes,yes,Mumbai,Thane,Navi Mumbai,Kolhapur,Pune,Nashik,Solapur,,,
+Gopal,12245,yes,yes,Mumbai,Navi Mumbai,Thane,Pune,Surat,Nashik,Goa,Rajkot,Ahmedabad,Secunderabad
+Pritesh,12246,yes,yes,Pune,Nashik,Kolhapur,Surat,Gandhinagar,Ratnagiri,,,,
+Sandeep,12247,yes,yes,Ratnagiri,Nashik,Navi Mumbai,Thane,Ahmedabad,Goa,Anand,Mehsana,Mumbai,Gandhinagar
+Kharat,12248,yes,yes,Ahmedabad,Anand,Hyderabad,Secunderabad,Nashik,Nagpur,Surat,Mehsana,Bhavnagar,Rajkot
+Yogesh,12249,yes,yes,Rajkot,Aurangabad,Vadodara,Nagpur,Ahmedabad,Gandhinagar,Hyderabad,Secunderabad,Kolhapur,Goa
+Usha,12250,yes,yes,Bhuj,Rajkot,Nagpur,Surat,Ahmednagar,Kolhapur,Hyderabad,,,Nashik
+Soumyajit,12251,no,yes,Mumbai,Thane,Navi Mumbai,,,,,,,
+Hari,12252,yes,yes,Secunderabad,Aurangabad,Nagpur,Hyderabad,Ahmedabad,Nanded,Rajkot,Amravati,Kolhapur,Ratnagiri
+Akash,12253,yes,yes,Navi Mumbai,Mumbai,Thane,,,,,,,
+Dilip,12254,yes,yes,Aurangabad,Ahmedabad,Nagpur,Vadodara,Gandhinagar,,,,,
+Subhabrata,12255,yes,yes,Hyderabad,Goa,Ahmedabad,Gandhinagar,Bhavnagar,Rajkot,Nagpur,Satara,Ratnagiri,Solapur
+Smrutiranjan,12256,yes,yes,Any city,Any city,,,,,,,,
+Tambe,12257,yes,yes,Nagpur,Ahmedabad,Rajkot,Ratnagiri,Surat,Vadodara,Anand,Mehsana,Gandhinagar,Any city
+Abhijit,12258,yes,yes,Goa,Hyderabad,Secunderabad,Nagpur,Anand,Rajkot,Ratnagiri,Gandhinagar,Solapur,Any city
+Tatkare,12259,yes,yes,Navi Mumbai,Thane,Pune,Nashik,Surat,Ratnagiri,Goa,Solapur,Jalgaon,Aurangabad
+Sameer,12260,yes,yes,Bhuj,Anand,Gandhinagar,Hyderabad,Vadodara,Bhavnagar,Aurangabad,Ratnagiri,Sangli,Satara
+Jayakrishnan,12261,yes,yes,Nashik,Pune,Goa,Ratnagiri,Aurangabad,Kolhapur,Nagpur,Mumbai,Hyderabad,Thane
+Kamal,12262,yes,yes,Mumbai,Navi Mumbai,Thane,,,,,,,
+Kushalkar,12263,yes,yes,Kolhapur,Ratnagiri,Nanded,Jalgaon,Rajkot,,,Amravati,Hyderabad,Ahmednagar
+Milind,12264,yes,no,Nashik,Pune,Hyderabad,Nagpur,Navi Mumbai,Thane,,,,
+deepak,12265,yes,yes,Any city,,,,,,,,,
+Shripad,12266,yes,no,Mumbai,,,,,,,,,
+Umredkar,12267,yes,yes,Any city,Any city,Any city,,,,,,,
+Upendra,12268,yes,yes,Pune,Nashik,Kolhapur,Satara,Ratnagiri,Mumbai,Thane,Navi Mumbai,Solapur,Jalgaon
+Manoj,12269,yes,yes,Pune,,,,,,,,,
+Latika,12270,yes,yes,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai
+Anil,12271,yes,yes,Ahmedabad,Pune,Pune,Nashik,Hyderabad,Nashik,,,,
+Kavita,12272,yes,yes,Pune,Goa,Surat,,,,,,,
+Madhu,12273,yes,yes,Goa,Aurangabad,Nashik,,,,,,,
+Hate,12274,yes,no,Mumbai,Thane,Navi Mumbai,,,,,,,
+Ghole,12275,yes,yes,Surat,Amravati,Aurangabad,,,,,,,
+Kargutkar,12276,yes,yes,Any city,,,,,,,,,
+Mainkar,12277,yes,yes,Nagpur,Amravati,Ahmedabad,Rajkot,Bhavnagar,Solapur,Gandhinagar,Kolhapur,Vadodara,Secunderabad
+Ranade,12278,yes,yes,Goa,Nashik,Navi Mumbai,Thane,Mumbai,Pune,,,,
+Priya,12279,yes,yes,Any city,,,,,,,,,
+Aparna,12280,yes,yes,Hyderabad,Secunderabad,Rajkot,Vadodara,Bhavnagar,Gandhinagar,Bhuj,Ahmednagar,Aurangabad,Nanded
+Sunil,12281,yes,yes,Gandhinagar,Goa,Hyderabad,Mehsana,Secunderabad,Nagpur,Vadodara,Ratnagiri,Solapur,Ahmedabad
+Ankush,12282,yes,no,Amravati,Ratnagiri,Goa,Secunderabad,Bhavnagar,Nanded,Nashik,,Hyderabad,Gandhinagar
+Shravni,12283,yes,yes,Mumbai,Thane,Navi Mumbai,,,,,,,
+Wakode,12284,yes,yes,Secunderabad,Kolhapur,Aurangabad,Ratnagiri,Nagpur,Goa,Hyderabad,Ahmedabad,Nanded,Rajkot
+Salil,12285,no,yes,Any city,Pune,Hyderabad,,,,,,,
+Shashikant,12286,no,yes,Navi Mumbai,,,,,,,,,
+Abhijit,12287,yes,yes,Jalgaon,Kolhapur,Aurangabad,Ahmedabad,Bhavnagar,Nagpur,Pune,Hyderabad,Rajkot,Any city
+Chandrakant,12288,yes,no,Navi Mumbai,Mumbai,,,,,,,,
+Hemant,12289,yes,yes,Kolhapur,Aurangabad,Mumbai,Navi Mumbai,Nashik,Nagpur,Goa,,,
+Pravin,12290,yes,yes,Any city,,,,,,,,,
+Hate,12291,yes,yes,Nashik,Ahmednagar,Solapur,Mumbai,Navi Mumbai,Thane,,,,
+Warwatkar,12292,yes,no,Nagpur,Goa,Aurangabad,Ratnagiri,,,,,,
+Amol,12293,yes,yes,Goa,Hyderabad,Amravati,Ahmedabad,Aurangabad,Nashik,Kolhapur,Jalgaon,Mehsana,Gandhinagar
+snehal,12294,yes,yes,Any city,,,,,,,,,
+Amit,12295,yes,yes,Hyderabad,Aurangabad,Ahmedabad,Pune,Nashik,,Bhuj,Goa,Rajkot,Ratnagiri
+Dhiwar,12296,yes,yes,Mumbai,Goa,Pune,Hyderabad,Secunderabad,,,,,
+Manisha,12297,yes,yes,Any city,Any city,Any city,,,,,,,
+Mamta,12298,yes,yes,Any city,,,,,,,,,
+Gururajan,12299,yes,yes,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city
+Thakur,12300,yes,no,Ahmedabad,Nashik,Pune,,,,,,,
+Anilkumar,12301,yes,yes,Nagpur,Bhavnagar,Rajkot,Secunderabad,Hyderabad,Surat,Aurangabad,Anand,Sangli,Satara
+Aruna,12302,yes,yes,Aurangabad,Rajkot,Goa,Hyderabad,Secunderabad,Rajkot,Nanded,Surat,Vadodara,Bhavnagar
+Mukta,12303,yes,yes,Hyderabad,Goa,Pune,Nagpur,Ahmedabad,Gandhinagar,Secunderabad,Surat,Nashik,Aurangabad
+vijay,12304,yes,yes,Hyderabad,Secunderabad,Nagpur,Rajkot,Ahmedabad,Goa,Gandhinagar,Ratnagiri,Vadodara,Kolhapur
+Surya,12305,yes,yes,Mumbai,Navi Mumbai,Thane,Mumbai,Mumbai,Mumbai,,,,
+A,12306,yes,yes,Mumbai,Navi Mumbai,Pune,,,,,,,
+Sanjeev,12307,no,yes,Pune,,,,,,,,,
+Arpita,12308,yes,yes,Nashik,Kolhapur,Ratnagiri,Hyderabad,Secunderabad,Anand,Sangli,Goa,Nanded,Ahmedabad
+Prof,12309,yes,yes,Goa,Nagpur,Ahmedabad,Hyderabad,Secunderabad,Gandhinagar,Vadodara,Rajkot,Ratnagiri,Aurangabad
+Usha,12310,yes,yes,Nanded,Nanded,Nanded,Nanded,Nanded,Nanded,Nanded,Nanded,Nanded,Nanded
+Pundlik,12311,no,yes,Goa,Ratnagiri,,,,,,,,
+Sivaji,12312,no,yes,Hyderabad,Secunderabad,Goa,Ratnagiri,Nanded,Solapur,,,,
+Ashwini,12313,yes,yes,Rajkot,Secunderabad,Ahmedabad,Surat,Aurangabad,Vadodara,Gandhinagar,Kolhapur,Sangli,Nagpur
+Malay,12314,yes,yes,Goa,Secunderabad,Hyderabad,Ratnagiri,Bhavnagar,Bhuj,Kolhapur,Ahmedabad,Rajkot,Any city
+Indrani,12315,yes,yes,Aurangabad,Kolhapur,Pune,Nashik,Hyderabad,Ratnagiri,Nanded,Goa,Sangli,Satara
+Subramaniam,12316,no,yes,Nagpur,,,,,,,,,
+Dr,12317,yes,yes,Nagpur,Mumbai,,,,,,,,
+Pandurang,12318,no,yes,Goa,Ahmedabad,Ahmednagar,Amravati,Bhavnagar,Hyderabad,,,,
+Subhankar,12319,yes,yes,Pune,Nashik,Ratnagiri,Gandhinagar,Kolhapur,Satara,Surat,Rajkot,Ahmednagar,Amravati
+Usharani,12320,yes,yes,Mumbai,Navi Mumbai,Thane,Pune,Nagpur,Surat,Nashik,,,
+Dharmendra,12321,yes,yes,Secunderabad,Kolhapur,Aurangabad,Ratnagiri,Nagpur,Goa,Hyderabad,Ahmedabad,Nanded,Rajkot
+P,12322,yes,no,Pune,,,,,,,,,
+Vilas,12323,yes,yes,Pune,Gandhinagar,Nashik,Ahmedabad,Navi Mumbai,Thane,Goa,,,
+Manoj,12324,yes,no,Nagpur,Goa,Aurangabad,Ratnagiri,,,,,,
+Pratap,12325,yes,yes,Bhuj,Rajkot,Bhavnagar,Sangli,Aurangabad,Kolhapur,Satara,Nashik,,
+Adhare,12326,yes,yes,Any city,Goa,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city
+Vishawanath,12327,yes,yes,Gandhinagar,Ahmedabad,Goa,Hyderabad,Ratnagiri,Nashik,Pune,Surat,Vadodara,Rajkot
+Umesh,12328,yes,yes,Hyderabad,Rajkot,Ahmedabad,Gandhinagar,Nagpur,Goa,Bhavnagar,Pune,Nagpur,Nashik
+Vilas,12329,yes,no,Mumbai,Navi Mumbai,,,,,,,,
+Viijayan,12330,yes,yes,Nashik,Solapur,Aurangabad,Ahmedabad,Amravati,Ahmednagar,Sangli,Hyderabad,Ratnagiri,Nagpur
+Manohar,12331,yes,no,Goa,Anand,Mehsana,Kolhapur,Ratnagiri,,,,,
+Marar,12332,yes,yes,Hyderabad,Goa,Secunderabad,Ratnagiri,Bhuj,Bhavnagar,Mehsana,Anand,Surat,Any city
+Dilip,12333,yes,yes,Hyderabad,Goa,Secunderabad,Kolhapur,Ahmedabad,Nanded,Nagpur,Any city,Any city,Any city
+Aswani,12334,yes,yes,Aurangabad,Bhuj,Goa,Hyderabad,Secunderabad,Ratnagiri,,,,
+Samruddhi,12335,yes,yes,Ahmedabad,Gandhinagar,Vadodara,Bhavnagar,Mehsana,Rajkot,Anand,Ratnagiri,Kolhapur,Nagpur
+Shridevi,12336,yes,no,Hyderabad,Aurangabad,Surat,Vadodara,Amravati,Rajkot,,,,
+Swapnil,12337,yes,yes,Any city,,,,,,,,,
+Kalpana,12338,yes,yes,Secunderabad,Goa,Hyderabad,Mehsana,Bhavnagar,Bhuj,Ahmedabad,Solapur,Nanded,Rajkot
+Dilip,12339,yes,yes,Hyderabad,Vadodara,Goa,Ahmedabad,Mehsana,,,,,
+Hate,12340,yes,yes,Hyderabad,Secunderabad,Ahmedabad,Nagpur,Pune,Vadodara,Goa,Aurangabad,Surat,Mumbai
+Mahesh,12341,no,yes,Hyderabad,Bhavnagar,Rajkot,Nagpur,Goa,Secunderabad,Ahmedabad,Mehsana,Vadodara,Surat
+Sandip,12342,yes,yes,Vadodara,Ahmedabad,Rajkot,Gandhinagar,Mehsana,Anand,Bhavnagar,Hyderabad,Secunderabad,Bhuj
+Urvi,12343,yes,no,Hyderabad,Surat,Vadodara,Pune,Nashik,Nagpur,Gandhinagar,Goa,Anand,Secunderabad
+Dr,12344,no,yes,Hyderabad,Nashik,Ahmedabad,,,,,,,
+Pankaj,12345,yes,yes,Hyderabad,Secunderabad,Ahmedabad,Gandhinagar,Nagpur,Aurangabad,Vadodara,Nashik,Ratnagiri,Any city
+Viswanath,12346,yes,yes,Aurangabad,Nagpur,Hyderabad,Ahmedabad,Ahmednagar,Amravati,Solapur,Vadodara,Kolhapur,Rajkot
+Bakul,12347,yes,no,Hyderabad,Goa,Aurangabad,Nagpur,Nashik,Ahmedabad,Nanded,Bhavnagar,,Kolhapur
+Nagesh,12348,yes,yes,Nanded,Kolhapur,Bhuj,Amravati,Mehsana,Jalgaon,Kolhapur,Ahmednagar,Anand,Bhavnagar
+vijay,12349,yes,yes,Any city,Any city,Any city,,Any city,Any city,Any city,Any city,Any city,Any city
+Yogesh,12350,yes,yes,Aurangabad,Ahmedabad,Bhavnagar,Hyderabad,Nagpur,Nashik,Bhuj,Mehsana,Jalgaon,Kolhapur
+Arghadeep,12351,yes,yes,Hyderabad,Nagpur,Goa,Pune,Ahmedabad,Surat,Kolhapur,Satara,Rajkot,Solapur
+Pradeep,12352,yes,yes,Rajkot,Hyderabad,Secunderabad,Ahmedabad,Nagpur,Kolhapur,Nanded,Ratnagiri,Sangli,Satara
+Sameer,12353,yes,yes,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city
+Ronita,12354,yes,no,Kolhapur,Vadodara,Nagpur,,,,,,,
+Sidhyesh,12355,yes,yes,Rajkot,Vadodara,Ahmedabad,Bhuj,Jalgaon,Gandhinagar,Ratnagiri,Amravati,Nagpur,Solapur
+Suresh,12356,no,yes,Mumbai,,,,,,,,,
+Gandosi,12357,yes,yes,Goa,Nagpur,Hyderabad,Secunderabad,Ahmedabad,,,,,
+Seena,12358,yes,yes,Any city,,,,,,,,,
+Prabhavale,12359,yes,no,Mumbai,Thane,Pune,Aurangabad,Navi Mumbai,Vadodara,,Goa,Surat,Ahmedabad
+Meshram,12360,yes,yes,Hyderabad,Pune,Kolhapur,Aurangabad,Ratnagiri,Goa,,,,
+pranali,12361,yes,yes,Hyderabad,Ahmedabad,Goa,,,,,,,
+Princy,12362,yes,yes,Hyderabad,Goa,,,,,,,,
+prajakta,12363,yes,no,Nagpur,Nagpur,Nagpur,,,,,,,
+Patil,12364,yes,yes,Hyderabad,Rajkot,Nagpur,,,,,,,
+sheetal,12365,yes,yes,Goa,Surat,Kolhapur,Rajkot,Ahmedabad,Secunderabad,Vadodara,Thane,Navi Mumbai,Mumbai
+Sukhada,12366,yes,yes,Goa,Pune,Ratnagiri,Solapur,,,,,,
+Beena,12367,yes,no,Any city,,,,,,,,,
+Dilip,12368,no,yes,Navi Mumbai,Nashik,Pune,,,,,,,
+G,12369,yes,no,Mumbai,Navi Mumbai,,,,,,,,
+Sharad,12370,no,yes,Goa,Hyderabad,Aurangabad,Ahmednagar,Pune,Nagpur,Kolhapur,Sangli,Ratnagiri,Kolhapur
+Mahale,12371,yes,yes,Thane,Mumbai,Navi Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai
+Bijnan,12372,yes,yes,Secunderabad,Hyderabad,,,,,,,,
+Sunil,12373,yes,yes,Hyderabad,Secunderabad,Pune,Nagpur,Ahmedabad,Gandhinagar,Goa,Mumbai,Navi Mumbai,Thane
+Sengupta,12374,yes,yes,Mumbai,Navi Mumbai,Nashik,Pune,Thane,Rajkot,,,,
+Shri,12375,yes,yes,Goa,Rajkot,Hyderabad,Anand,Ratnagiri,Nashik,Satara,Pune,Kolhapur,Ahmedabad
+Kiran,12376,yes,no,Aurangabad,Vadodara,Hyderabad,Goa,,,,,,
+Preshit,12377,yes,yes,Nagpur,Solapur,Ahmedabad,Gandhinagar,Jalgaon,Kolhapur,Sangli,Satara,Vadodara,Goa
+Mudaliar,12378,yes,yes,Any city,,,,,,,,,
+G,12379,yes,yes,Any city,,,,,,,,,
+C,12380,yes,yes,Mumbai,Thane,Navi Mumbai,,,,,,,
+Debraj,12381,yes,yes,Ahmedabad,Gandhinagar,Bhuj,Rajkot,Mehsana,Hyderabad,Secunderabad,Vadodara,Anand,Surat
+Raviraj,12382,no,yes,Pune,Mumbai,Nashik,Navi Mumbai,Thane,,,,,
+Keshav,12383,yes,yes,Any city,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai
+Narendra,12384,yes,yes,Any city,,,,,,,,,
+Vijay,12385,yes,yes,Bhavnagar,Nanded,Vadodara,Anand,Mehsana,Nagpur,Aurangabad,Sangli,Ahmednagar,Solapur
+Jahindra,12386,yes,yes,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city
+Sawant,12387,yes,yes,Any city,,,,,,,,,
+Ravindra,12388,yes,yes,Hyderabad,Secunderabad,Rajkot,Bhuj,Anand,Bhavnagar,Vadodara,Nanded,Goa,Sangli
+Kumar,12389,yes,yes,Bhavnagar,Ahmedabad,Jalgaon,Goa,Vadodara,Nagpur,Amravati,Kolhapur,Rajkot,Ratnagiri
+Khale,12390,yes,yes,Any city,,,,,,,,,
+Manoj,12391,yes,yes,Mumbai,Thane,Navi Mumbai,Vadodara,,,,,,
+Anirban,12392,no,yes,Vadodara,Bhuj,Gandhinagar,Bhavnagar,Mehsana,Anand,Ahmedabad,Goa,Secunderabad,Jalgaon
+Juwekar,12393,yes,yes,Goa,Hyderabad,Ahmedabad,Gandhinagar,Pune,Nagpur,Rajkot,Aurangabad,Surat,
+Lathika,12394,yes,no,Hyderabad,Secunderabad,Surat,Ahmedabad,Nagpur,,,,,
+Shiriskar,12395,yes,yes,Solapur,Pune,Mumbai,Navi Mumbai,Nashik,Jalgaon,,Goa,Bhuj,Ahmedabad
+Ganeshkumar,12396,yes,yes,Any city,,,,,,,,,
+Geetha,12397,yes,yes,Surat,Hyderabad,Vadodara,Ahmedabad,Gandhinagar,,,,,
+Ashutosh,12398,yes,yes,Hyderabad,Nagpur,Kolhapur,Secunderabad,Bhuj,Mehsana,Ahmedabad,Amravati,Anand,Nashik
+Shri,12399,no,yes,Mumbai,,,,,,,,,
+Prabhakaran,12400,yes,yes,Any city,,,,,,,,,
+Radhika,12401,yes,yes,Rajkot,Bhuj,Sangli,Nanded,Aurangabad,Kolhapur,Nashik,Satara,Nagpur,Pune
+Nagendra,12402,yes,yes,Mumbai,Navi Mumbai,Thane,,,,,,,
+Sandhya,12403,yes,yes,Rajkot,Bhuj,Sangli,Nanded,Aurangabad,Kolhapur,Nashik,Satara,Nagpur,Pune
+Anshuman,12404,yes,no,Hyderabad,Secunderabad,Surat,Ahmedabad,Nagpur,,,,,
+Kambale,12405,yes,yes,Goa,Hyderabad,Secunderabad,Aurangabad,Nagpur,Gandhinagar,Pune,Surat,Amravati,Ratnagiri
+Manoj,12406,yes,yes,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai
+Santanu,12407,yes,yes,Goa,Bhuj,Gandhinagar,Bhavnagar,Ahmedabad,Rajkot,Secunderabad,Nagpur,Anand,Nashik
+Venkat,12408,yes,yes,Mumbai,Nagpur,,,,,,,,
+Manmohan,12409,yes,yes,Rajkot,Hyderabad,Secunderabad,Solapur,Nashik,Mumbai,Navi Mumbai,Nanded,Goa,Anand
+Mohammed,12410,yes,yes,Navi Mumbai,Mumbai,Thane,Pune,Ratnagiri,Nanded,Jalgaon,Sangli,Rajkot,Aurangabad
+Vanga,12411,yes,yes,Pune,Mumbai,Navi Mumbai,Thane,Goa,Ahmedabad,Vadodara,Hyderabad,Gandhinagar,Nashik
+Manju,12412,no,yes,Bhuj,Amravati,Aurangabad,Surat,,,,,,
+Mahendra,12413,yes,yes,Mumbai,Navi Mumbai,Thane,,,,,,,
+Mahesh,12414,yes,yes,Mumbai,Navi Mumbai,,,,,,,,
+Madhumati,12415,no,yes,Nashik,Pune,Mumbai,Navi Mumbai,Sangli,Thane,Aurangabad,Kolhapur,Satara,Solapur
+Ashwini,12416,yes,yes,Goa,Ratnagiri,Nanded,Nagpur,Hyderabad,Ahmedabad,Gandhinagar,Aurangabad,Vadodara,Surat
+Nitin,12417,yes,yes,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai
+RANJIT,12418,yes,yes,Goa,Gandhinagar,Ahmedabad,Surat,Rajkot,Bhavnagar,Bhuj,Anand,Mehsana,Vadodara
+Kulkarni,12419,yes,yes,Hyderabad,Secunderabad,Kolhapur,Pune,Mumbai,Goa,Gandhinagar,Thane,Navi Mumbai,Nagpur
+Vaidya,12420,yes,yes,Mumbai,Thane,Navi Mumbai,,,,,,,
+Shreekant,12421,yes,yes,Hyderabad,Secunderabad,Nagpur,Ahmedabad,Gandhinagar,Kolhapur,Aurangabad,Jalgaon,Ahmednagar,Solapur
+Gaikwad,12422,yes,no,Goa,Gandhinagar,Hyderabad,Kolhapur,Nashik,Ahmedabad,Rajkot,Mumbai,Navi Mumbai,Aurangabad
+Vinish,12423,yes,yes,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai
+Vishal,12424,no,yes,Gandhinagar,Nashik,Surat,,,,,,,
+Devanathan,12425,yes,yes,Bhuj,Bhavnagar,Mehsana,Amravati,Goa,Jalgaon,Ahmedabad,,,
+Maheswaran,12426,yes,yes,Bhuj,Hyderabad,Pune,Surat,Bhavnagar,Any city,Any city,Any city,Any city,Any city
+ashok,12427,yes,no,Hyderabad,Secunderabad,Ahmedabad,Goa,Nashik,,,,,
+Sankar,12428,yes,yes,Rajkot,Ahmedabad,Nashik,Solapur,Goa,,,,,
+Sawant,12429,no,yes,Goa,Nashik,Any city,,,,,,,
+Nikhil,12430,yes,yes,Goa,Secunderabad,Hyderabad,Aurangabad,Nagpur,Rajkot,Vadodara,Ahmedabad,Bhavnagar,Bhuj
+Raaj,12431,yes,no,Hyderabad,Pune,Goa,,,,,,,
+Rochish,12432,yes,yes,Mumbai,Navi Mumbai,Pune,Nashik,Thane,Surat,,,,
+Pallavee,12433,yes,no,Ahmedabad,Gandhinagar,Goa,Mumbai,,,,,,
+Shyam,12434,yes,yes,Goa,Nashik,Pune,Gandhinagar,Nagpur,Kolhapur,Bhavnagar,Mehsana,Rajkot,Sangli
+Garad,12435,no,yes,Kolhapur,Goa,Hyderabad,Secunderabad,Ahmedabad,Pune,,,,
+Gawai,12436,yes,no,Nagpur,Goa,Aurangabad,Ratnagiri,,,,,,
+Shamik,12437,yes,yes,Goa,Nagpur,Ahmedabad,Nashik,Ratnagiri,Gandhinagar,Pune,Vadodara,Hyderabad,Rajkot
+Rohidas,12438,yes,yes,Mumbai,,,,,,,,,
+Amol,12439,yes,yes,Hyderabad,Secunderabad,Nagpur,Vadodara,Kolhapur,Ahmedabad,Nashik,Gandhinagar,Aurangabad,Goa
+Archita,12440,yes,yes,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai
+Prem,12441,yes,yes,Bhuj,Goa,Hyderabad,Secunderabad,Mehsana,Rajkot,Anand,Ahmednagar,Nagpur,Any city
+Shalabh,12442,yes,yes,Rajkot,Goa,Hyderabad,Gandhinagar,Anand,Mehsana,Surat,Ahmedabad,Bhavnagar,Bhuj
+Meera,12443,yes,no,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai
+Kiran,12444,no,yes,Goa,Pune,Hyderabad,Nashik,Secunderabad,Nagpur,Ratnagiri,,,
+Nilesh,12445,no,yes,Mumbai,Navi Mumbai,Pune,Nashik,Ahmedabad,,,,,
+Sudha,12446,yes,no,Mumbai,Mumbai,,,,,,,,
+Paulson,12447,yes,yes,Kolhapur,Secunderabad,Rajkot,Ahmednagar,Hyderabad,Goa,Solapur,Nagpur,Vadodara,Surat
+Anjali,12448,yes,yes,Bhavnagar,Rajkot,Bhuj,Goa,Secunderabad,Anand,Hyderabad,Nanded,Any city,Any city
+Jyoti,12449,yes,yes,Navi Mumbai,Mumbai,Thane,,,,,,,
+K,12450,yes,yes,Amravati,Nagpur,Goa,Surat,Vadodara,Ahmedabad,Bhuj,Gandhinagar,Rajkot,Ratnagiri
+Dr,12451,yes,yes,Hyderabad,Goa,Aurangabad,Nagpur,Ahmedabad,Nashik,Pune,Rajkot,Surat,Vadodara
+Yalamanchili,12452,yes,yes,Any city,Any city,Any city,Any city,Any city,Any city,Any city,,Any city,Any city
+R,12453,yes,yes,Mumbai,Navi Mumbai,,,,,,,,
+Birade,12454,yes,yes,Any city,,,,,,,,,
+Indu,12455,yes,yes,Nashik,Pune,Surat,Mumbai,Navi Mumbai,Jalgaon,Thane,Any city,,
+Romani,12456,yes,yes,Pune,Kolhapur,Goa,Hyderabad,Nashik,Nagpur,,Secunderabad,Rajkot,Mumbai
+Sridhar,12457,yes,yes,Any city,,,,,,,,,
+Bhikaji,12458,yes,yes,Bhuj,Rajkot,Ahmedabad,Secunderabad,Hyderabad,Goa,Aurangabad,Nagpur,Any city,Any city
+Sudha,12459,yes,yes,Any city,,,,,,,,,
+Sudhir,12460,no,yes,Pune,Rajkot,Hyderabad,Navi Mumbai,Mumbai,,,,,
+Gupte,12461,yes,yes,Ratnagiri,Ahmedabad,Vadodara,Hyderabad,Secunderabad,Goa,Gandhinagar,Nagpur,Bhuj,Kolhapur
+Jadhav,12462,no,yes,Ahmedabad,Bhavnagar,Gandhinagar,Jalgaon,Surat,Pune,Vadodara,Nashik,Goa,Hyderabad
+Laxmikant,12463,yes,yes,Any city,,,,,,,,,
+Chandrashekhar,12464,yes,no,Goa,Aurangabad,Bhuj,Hyderabad,Bhavnagar,Secunderabad,Kolhapur,Nashik,Nanded,Rajkot
+Perumal,12465,yes,yes,Ahmedabad,Nagpur,Goa,Rajkot,Ratnagiri,Any city,Any city,Any city,Any city,Any city
+Sanjay,12466,yes,yes,Ahmedabad,Ahmednagar,Amravati,Aurangabad,Anand,Bhuj,Hyderabad,Kolhapur,Navi Mumbai,Surat
+Ashish,12467,yes,yes,Mumbai,Navi Mumbai,Thane,Navi Mumbai,Mumbai,Thane,Mumbai,Navi Mumbai,Thane,Navi Mumbai
+Rodney,12468,yes,yes,Hyderabad,Bhuj,Rajkot,Secunderabad,Solapur,Nanded,Amravati,Nagpur,Jalgaon,Aurangabad
+Leena,12469,yes,yes,Mumbai,Navi Mumbai,,,,,,,,
+Rajarshi,12470,yes,yes,Any city,,,,,,,,,
+Sakshi,12471,yes,yes,Hyderabad,Rajkot,Pune,Ahmedabad,Bhuj,Secunderabad,Gandhinagar,Kolhapur,Ratnagiri,Bhavnagar
+Tanvi,12472,yes,yes,Vadodara,Ahmedabad,Rajkot,Gandhinagar,Mehsana,Anand,Bhavnagar,Hyderabad,Secunderabad,Bhuj
+Ramaswamy,12473,yes,yes,Ahmedabad,Bhuj,Gandhinagar,Goa,Hyderabad,Rajkot,Secunderabad,Solapur,Surat,Vadodara
+Prasad,12474,yes,yes,Nashik,Pune,Surat,,,,,,,
+Balasubramaniam,12475,yes,yes,Mumbai,,,,,,,,,
+Aparna,12476,no,yes,Goa,Pune,Mumbai,Ratnagiri,Navi Mumbai,Gandhinagar,,,,
+Hitesh,12477,yes,yes,Goa,Hyderabad,Secunderabad,Ahmedabad,Nagpur,Nashik,Rajkot,Gandhinagar,Aurangabad,Any city
+Suvarn,12478,no,yes,Ahmedabad,Gandhinagar,Nashik,Navi Mumbai,,,,,,
+Dalvi,12479,yes,yes,Rajkot,Bhuj,Sangli,Nanded,Aurangabad,Kolhapur,Nashik,Satara,Nagpur,Pune
+Madhavi,12480,yes,yes,Bhuj,Gandhinagar,Goa,Nagpur,Hyderabad,Bhavnagar,Kolhapur,Nashik,Anand,Jalgaon
+Wagare,12481,yes,yes,Surat,Goa,Vadodara,Ahmedabad,Secunderabad,Hyderabad,Gandhinagar,Rajkot,Bhavnagar,Bhuj
+Bhave,12482,yes,yes,Mumbai,Pune,Nashik,Ahmedabad,Nagpur,Hyderabad,Kolhapur,Secunderabad,Surat,Vadodara
+Swapna,12483,yes,yes,Hyderabad,Nagpur,Secunderabad,Navi Mumbai,Thane,,,,,
+Nissar,12484,yes,yes,Mumbai,Navi Mumbai,Thane,,,,,,,
+Joy,12485,yes,yes,Mumbai,Navi Mumbai,Thane,Nashik,Vadodara,Kolhapur,Ratnagiri,Satara,Mehsana,Gandhinagar
+Krishna,12486,yes,no,Ahmedabad,Anand,Vadodara,Bhuj,Gandhinagar,Bhavnagar,Rajkot,Hyderabad,Goa,Mehsana
+Kishore,12487,yes,yes,Hyderabad,Aurangabad,Goa,Thane,Sangli,Amravati,Ahmednagar,Bhavnagar,,Nagpur
+Narendra,12488,yes,no,Nagpur,Pune,Nashik,Ratnagiri,Sangli,Satara,Aurangabad,Nanded,Navi Mumbai,Thane
+Malvankar,12489,yes,yes,Hyderabad,Secunderabad,Anand,Bhavnagar,Bhuj,Nanded,Rajkot,Kolhapur,Ratnagiri,Gandhinagar
+Hadkar,12490,yes,no,Navi Mumbai,Mumbai,Pune,Nashik,Satara,Solapur,Nagpur,Goa,Thane,Jalgaon
+Ganesh,12491,yes,yes,Goa,Ahmedabad,Gandhinagar,Hyderabad,Vadodara,Surat,,,,
+Rekha,12492,no,yes,Secunderabad,Hyderabad,Aurangabad,Pune,,,,,,
+Sumitra,12493,yes,yes,Aurangabad,Ahmedabad,Bhuj,Bhavnagar,Secunderabad,Hyderabad,Rajkot,Nagpur,Vadodara,Any city
+Patel,12494,no,yes,Ratnagiri,Goa,Pune,Hyderabad,Secunderabad,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai
+Kishor,12495,yes,yes,Nagpur,Nashik,Goa,Hyderabad,Secunderabad,Amravati,Rajkot,Gandhinagar,Aurangabad,Ahmedabad
+rahul,12496,yes,yes,Nashik,Surat,Pune,Ahmednagar,,,,,,
+Malhar,12497,yes,yes,Thane,Nashik,Pune,Navi Mumbai,Ratnagiri,Goa,Ahmedabad,Anand,Satara,Any city
+Thombare,12498,yes,yes,Mumbai,Nashik,Pune,Thane,Navi Mumbai,,,,,
+Kalpana,12499,yes,no,Hyderabad,Vadodara,,,,,,,,
+Prashant,12500,yes,yes,Mumbai,Navi Mumbai,Thane,Navi Mumbai,,,,,,
+Chandra,12501,yes,yes,Ahmedabad,Rajkot,Bhavnagar,Surat,Gandhinagar,Goa,Hyderabad,Nagpur,Nashik,Any city
+Dipankar,12502,yes,yes,Ahmedabad,Hyderabad,Nagpur,Bhavnagar,Aurangabad,Bhuj,Secunderabad,Vadodara,Goa,Any city
+Ambarish,12503,yes,yes,Any city,,,,,,,,,
+Satyawan,12504,yes,yes,Goa,Hyderabad,Secunderabad,Bhuj,Vadodara,Surat,Rajkot,Gandhinagar,Ahmedabad,Any city
+Nishikant,12505,yes,yes,Hyderabad,Rajkot,Goa,Ahmedabad,Secunderabad,Kolhapur,Mumbai,,,
+Ganesh,12506,yes,no,Goa,Kolhapur,Satara,Aurangabad,Mumbai,Navi Mumbai,Surat,Thane,,
+Ghosh,12507,yes,yes,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai
+Sabu,12508,yes,yes,Bhuj,Rajkot,Secunderabad,Nagpur,Ratnagiri,Ahmedabad,Bhavnagar,Kolhapur,Jalgaon,Goa
+Dnyanesh,12509,yes,yes,Gandhinagar,Ahmedabad,Surat,Bhavnagar,Vadodara,Mehsana,Goa,Hyderabad,Surat,Rajkot
+B,12510,no,yes,Ratnagiri,Secunderabad,Anand,Hyderabad,Kolhapur,,,,,
+S,12511,yes,yes,Hyderabad,Vadodara,Rajkot,Bhuj,Mehsana,Secunderabad,Gandhinagar,Ahmedabad,Ahmednagar,Sangli
+Hima,12512,yes,yes,Pune,Hyderabad,Secunderabad,Goa,,,,,,
+Pankaj,12513,no,yes,Anand,Ahmedabad,Nashik,Bhuj,Pune,Kolhapur,Sangli,Goa,Aurangabad,Hyderabad
+Kusher,12514,yes,yes,Ahmedabad,Hyderabad,Secunderabad,Goa,Bhuj,Anand,Gandhinagar,Mehsana,Rajkot,Ratnagiri
+Dr,12515,no,yes,Nagpur,Hyderabad,Aurangabad,Ahmedabad,Gandhinagar,Goa,Rajkot,Pune,Vadodara,Anand
+Atul,12516,yes,no,Hyderabad,Secunderabad,Goa,Ahmedabad,Gandhinagar,Pune,,,,
+Komal,12517,yes,no,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai
+Sanjeeva,12518,yes,yes,Mumbai,Navi Mumbai,Thane,Pune,Nashik,Ahmedabad,,,,
+Pradeep,12519,yes,yes,Any city,,,,,,,,,
+Chetan,12520,yes,yes,Ahmedabad,Bhavnagar,Rajkot,Kolhapur,Satara,Amravati,Nagpur,Jalgaon,Nashik,Vadodara
+Apurba,12521,yes,yes,Hyderabad,Surat,Nashik,Pune,Navi Mumbai,Nagpur,Rajkot,Solapur,Mumbai,Thane
+Hrushikesh,12522,yes,yes,Ahmedabad,Nagpur,Surat,Anand,Mehsana,Vadodara,Mehsana,Gandhinagar,Rajkot,Secunderabad
+Shubhangi,12523,yes,yes,Secunderabad,Hyderabad,Mumbai,Navi Mumbai,Thane,Goa,Nagpur,Amravati,Nashik,Rajkot
+Arun,12524,yes,yes,Goa,Ahmedabad,Bhavnagar,Gandhinagar,Ratnagiri,Secunderabad,Hyderabad,,,
+Sachin,12525,yes,yes,Mumbai,Navi Mumbai,Thane,Nashik,Pune,,,,,
+Manjunath,12526,yes,yes,Nashik,Aurangabad,Secunderabad,Ahmedabad,Anand,Gandhinagar,Hyderabad,Nagpur,Vadodara,Goa
+Pradeep,12527,yes,yes,Goa,Secunderabad,Hyderabad,Ahmedabad,Nagpur,Thane,Navi Mumbai,Mumbai,Pune,Gandhinagar
+Radhakrishna,12528,yes,yes,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city
+Kharade,12529,yes,yes,Any city,,,,,,,,,
+Mugdha,12530,yes,no,Mumbai,Navi Mumbai,Thane,,,,,,,
+Prasad,12531,yes,no,Goa,Hyderabad,Secunderabad,,,,,,,
+vinayak,12532,yes,yes,Hyderabad,Ahmedabad,Gandhinagar,Aurangabad,Vadodara,Goa,Nagpur,Mumbai,Navi Mumbai,Thane
+Sanjay,12533,yes,yes,Goa,Secunderabad,Hyderabad,Ahmedabad,Nagpur,Thane,Navi Mumbai,Mumbai,,
+M,12534,yes,yes,Mumbai,Navi Mumbai,Nashik,Ahmednagar,Pune,,,,,
+Kazi,12535,yes,yes,Goa,Bhuj,Ahmedabad,Anand,Nagpur,Secunderabad,Surat,Gandhinagar,Pune,Vadodara
+Bhangre,12536,yes,yes,Goa,Rajkot,Surat,Nagpur,Nanded,,,,,
+M,12537,yes,yes,Mumbai,Thane,Goa,Nashik,Ahmedabad,Gandhinagar,Nagpur,Kolhapur,Bhavnagar,Aurangabad
+Ashwini,12538,yes,yes,Any city,,,,,,,,,
+Usha,12539,yes,yes,Bhuj,Rajkot,Surat,Satara,Gandhinagar,Ahmedabad,Nanded,Aurangabad,Amravati,Goa
+Naresh,12540,yes,yes,Mumbai,Navi Mumbai,Thane,,,,,,,
+Gupta,12541,yes,yes,Mumbai,Navi Mumbai,Thane,Hyderabad,Nagpur,Pune,Surat,Ahmedabad,Goa,Nashik
+Naresh,12542,yes,yes,Thane,Navi Mumbai,Mumbai,Pune,Nagpur,Gandhinagar,Ahmedabad,Nashik,Solapur,Surat
+Dhanya,12543,yes,yes,Vadodara,Ahmedabad,Rajkot,Gandhinagar,Mehsana,Anand,Bhavnagar,Hyderabad,Secunderabad,Nagpur
+Harshada,12544,yes,no,Goa,Ratnagiri,,,,,,,,
+Samant,12545,yes,no,Hyderabad,Pune,Goa,,,,,,,
+Kambli,12546,yes,yes,Navi Mumbai,Mumbai,Thane,,,,,,,
+Murlidhar,12547,yes,yes,Mumbai,Thane,Navi Mumbai,Goa,Pune,Nashik,Kolhapur,Ratnagiri,Ahmedabad,Any city
+Rajneesh,12548,yes,yes,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city
+aftab,12549,yes,yes,Goa,Satara,Sangli,,,,,,,
+Siuli,12550,yes,yes,Hyderabad,Mumbai,Secunderabad,Ahmedabad,Navi Mumbai,Bhuj,,,,
+Raju,12551,yes,no,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai
+Devendra,12552,yes,yes,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city
+Ashish,12553,yes,yes,Ahmedabad,Rajkot,Secunderabad,Nagpur,Bhuj,Aurangabad,Hyderabad,Goa,Kolhapur,Any city
+M,12554,yes,yes,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city
+Gajananrao,12555,yes,yes,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city
+Yogesh,12556,yes,yes,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city
+Mayuri,12557,yes,yes,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city
+Rajput,12558,yes,yes,Goa,Hyderabad,Secunderabad,Ratnagiri,Vadodara,Surat,Kolhapur,Nagpur,Solapur,Gandhinagar
+Pandurang,12559,yes,no,Thane,Mumbai,Navi Mumbai,Pune,Goa,Any city,Any city,Any city,Any city,Any city
+Ashwini,12560,yes,yes,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city
+Rohan,12561,yes,yes,Hyderabad,Rajkot,Nagpur,Vadodara,Any city,Any city,Any city,Any city,Any city,Any city
+Vinu,12562,yes,no,Hyderabad,Kolhapur,Surat,Nashik,Mumbai,Rajkot,Navi Mumbai,Gandhinagar,Nagpur,Nagpur
+Samir,12563,yes,yes,Ratnagiri,Goa,Pune,Kolhapur,Sangli,Nashik,Aurangabad,Satara,Amravati,Thane
+Krishna,12564,yes,yes,Mumbai,,,,,,,,,
+Pushpa,12565,yes,yes,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city
+Sanjay,12566,yes,yes,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city
+Rajesh,12567,yes,yes,Any city,Any city,Any city,Any city,Any city,Any city,,Any city,Any city,Any city
+Sugandhi,12568,yes,yes,Ahmedabad,Aurangabad,Goa,Nagpur,Ratnagiri,Secunderabad,Kolhapur,Bhuj,Hyderabad,Rajkot
+swapnali,12569,yes,yes,Vadodara,Ahmedabad,Rajkot,Gandhinagar,Mehsana,Anand,Bhavnagar,Hyderabad,Secunderabad,Nagpur
+Sarita,12570,yes,no,Goa,Hyderabad,Ahmedabad,Pune,Gandhinagar,,,,,
+Anant,12571,yes,no,Ratnagiri,Hyderabad,Goa,Nashik,Aurangabad,Jalgaon,Kolhapur,Pune,Mumbai,Thane
+Prasad,12572,yes,yes,Hyderabad,Ahmedabad,Bhuj,Gandhinagar,Vadodara,Secunderabad,Nagpur,Mumbai,Mumbai,Mumbai
+L,12573,no,yes,Mumbai,Navi Mumbai,Thane,,,,,,,
+Shaibal,12574,yes,yes,Navi Mumbai,Thane,Mumbai,Ratnagiri,Goa,Pune,Kolhapur,Nashik,Nagpur,Ahmedabad
+Rajesh,12575,yes,yes,Bhuj,Rajkot,Ratnagiri,Kolhapur,Goa,Any city,,,,
+Leena,12576,yes,yes,Aurangabad,Mumbai,Pune,Navi Mumbai,Ratnagiri,Goa,Anand,Ahmedabad,Gandhinagar,Jalgaon
+Bansode,12577,yes,yes,Any city,,,,,,,,,
+SAVITA,12578,yes,no,Aurangabad,Nashik,Ratnagiri,Pune,,,,,,
+Sanjaykumar,12579,yes,yes,Goa,Gandhinagar,Amravati,Nashik,Rajkot,Ahmedabad,Surat,Ahmedabad,Aurangabad,Any city
+Santanu,12580,yes,no,Hyderabad,Ahmedabad,Bhuj,Rajkot,,,,,,
+Jhasaketan,12581,yes,no,Mumbai,Navi Mumbai,Thane,Pune,Goa,Kolhapur,Ratnagiri,Nashik,Jalgaon,Satara
+Ruby,12582,yes,yes,Rajkot,Goa,Secunderabad,Vadodara,Gandhinagar,Bhuj,Ahmedabad,Surat,Bhavnagar,Nagpur
+Munish,12583,yes,yes,Rajkot,Hyderabad,Goa,Bhavnagar,Bhuj,Gandhinagar,Ahmedabad,Vadodara,Amravati,Nagpur
+Shrikhande,12584,yes,yes,Goa,Surat,Ahmedabad,Ratnagiri,Vadodara,Gandhinagar,Hyderabad,Aurangabad,Nashik,Pune
+Venkata,12585,yes,yes,Hyderabad,Secunderabad,Goa,Ahmedabad,Nagpur,Rajkot,,,,
+Laxman,12586,yes,yes,Secunderabad,Hyderabad,Pune,,,,,,,
+Sarita,12587,yes,no,Hyderabad,Ahmedabad,Bhuj,Rajkot,,,,,,
+Basantakumar,12588,yes,yes,Goa,Pune,Mumbai,Navi Mumbai,,,,,,
+Shekhar,12589,yes,yes,Any city,Any city,Any city,Goa,Jalgaon,Bhavnagar,Nanded,Gandhinagar,Mehsana,Secunderabad
+Sneha,12590,yes,no,Goa,Pune,Ahmedabad,Anand,Gandhinagar,,,,,
+Praveen,12591,yes,no,Any city,,,,,,,,,
+Soman,12592,yes,no,Goa,Ratnagiri,Mumbai,,,,,,,
+M,12593,yes,yes,Aurangabad,Hyderabad,Goa,Gandhinagar,Ahmedabad,Kolhapur,Amravati,,,
+shripal,12594,yes,yes,Mumbai,Navi Mumbai,Thane,Hyderabad,Any city,,,,,
+Aradhana,12595,yes,no,Any city,Hyderabad,Nagpur,Kolhapur,,,,,,
+Sunil,12596,yes,yes,Navi Mumbai,Thane,Mumbai,,,,,,,
+Rane,12597,yes,yes,Any city,,,,,,,,,
+Kumar,12598,no,yes,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai
+SUKUMAR,12599,yes,no,Goa,Hyderabad,Mumbai,Nashik,Ahmedabad,Bhavnagar,Nagpur,Pune,,
+Vishal,12600,yes,yes,Hyderabad,Ahmedabad,Bhavnagar,Bhuj,Goa,Rajkot,Mehsana,Anand,Gandhinagar,Kolhapur
+Purnima,12601,yes,no,Mumbai,Navi Mumbai,Thane,Goa,Hyderabad,,,,,
+Kedare,12602,yes,yes,Kolhapur,Hyderabad,Aurangabad,Mumbai,Goa,Nashik,Jalgaon,,,
+Anupama,12603,yes,yes,Any city,,,,,,,,,
+Paramita,12604,yes,yes,Any city,Any city,Any city,Any city,Any city,Any city,,,,
+G,12605,yes,no,Mumbai,Navi Mumbai,Thane,Pune,Goa,Kolhapur,Nashik,Surat,,
+Jitendra,12606,yes,yes,Any city,Any city,Any city,Any city,Any city,Any city,,,,
+Ranjan,12607,no,yes,Goa,Kolhapur,Ahmedabad,Nagpur,Vadodara,Hyderabad,Surat,Rajkot,Pune,Gandhinagar
+Rajesh,12608,yes,yes,Hyderabad,Secunderabad,Goa,Gandhinagar,Pune,Nashik,Mumbai,Navi Mumbai,,
+Amol,12609,no,yes,Mumbai,Navi Mumbai,Thane,Nashik,Ratnagiri,Pune,,,,
+Girish,12610,yes,no,Goa,Satara,Ratnagiri,Mumbai,Navi Mumbai,,,,,
+Rajesh,12611,yes,yes,Aurangabad,Pune,Goa,,,,,,,
+Suneet,12612,yes,no,Any city,,,,,,,,,
+Nitin,12613,yes,no,Mumbai,Navi Mumbai,Pune,,,,,,,
+Gamre,12614,yes,yes,Any city,,,,,,,,,
+Jitendra,12615,yes,no,Hyderabad,Goa,Ahmedabad,Secunderabad,Gandhinagar,Vadodara,Amravati,Nagpur,,
+Nayan,12616,yes,no,Goa,Pune,Navi Mumbai,Mumbai,Ratnagiri,,,,,
+Tanmay,12617,yes,yes,Goa,Nagpur,Hyderabad,Secunderabad,Vadodara,Ratnagiri,Ahmedabad,Navi Mumbai,Mumbai,Thane
+Nithyanand,12618,no,yes,Mumbai,,,,,,,,,
+Ravi,12619,yes,yes,Hyderabad,Secunderabad,Any city,,,,,,,
+Bhate,12620,yes,yes,Ahmedabad,Goa,Gandhinagar,Hyderabad,Pune,Nagpur,Anand,Rajkot,Mumbai,Aurangabad
+Sanjay,12621,yes,yes,Ahmedabad,Amravati,Aurangabad,Bhavnagar,Gandhinagar,Kolhapur,Nagpur,Nanded,Nashik,Any city
+sumit,12622,yes,yes,Hyderabad,Secunderabad,Goa,Gandhinagar,Pune,Nashik,Mumbai,Navi Mumbai,,
+Amit,12623,no,yes,Nagpur,Aurangabad,Goa,Pune,Nashik,Navi Mumbai,Mumbai,,,
+Kadam,12624,yes,no,Secunderabad,Hyderabad,Goa,Pune,Ahmedabad,Kolhapur,Gandhinagar,Navi Mumbai,Nashik,Any city
+Tagare,12625,yes,yes,Surat,Nashik,Satara,Ratnagiri,Pune,,,,,
+Santosh,12626,yes,no,Goa,Gandhinagar,Mumbai,Navi Mumbai,Ahmedabad,Bhavnagar,Aurangabad,Nagpur,Jalgaon,Amravati
+Prabhakar,12627,yes,no,Goa,Ratnagiri,Nagpur,Mumbai,Navi Mumbai,Thane,,,,
+Amitava,12628,yes,no,Mumbai,Pune,Navi Mumbai,Thane,,,,,,
+KNV,12629,yes,yes,Nagpur,Satara,Jalgaon,Kolhapur,Pune,Nashik,Solapur,Vadodara,Aurangabad,Amravati
+Vaibhav,12630,yes,yes,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city,Any city
+Pai,12631,yes,yes,Goa,Hyderabad,Gandhinagar,Secunderabad,Rajkot,Vadodara,Bhuj,Bhavnagar,Anand,Nanded
+Waydande,12632,yes,yes,Ahmedabad,Nagpur,Aurangabad,Gandhinagar,Goa,Hyderabad,Rajkot,Secunderabad,Anand,Bhuj
+Siddesh,12633,yes,yes,Rajkot,Bhuj,Sangli,Mehsana,Hyderabad,Secunderabad,Anand,Gandhinagar,Ahmednagar,Goa
+Amit,12634,yes,yes,Goa,Hyderabad,Gandhinagar,Anand,Nagpur,Ahmedabad,Kolhapur,Amravati,Bhavnagar,Mehsana
+Bharati,12635,yes,yes,Aurangabad,Hyderabad,Bhavnagar,Bhuj,Kolhapur,Rajkot,Vadodara,Gandhinagar,Goa,Nanded
+Kamble,12636,yes,yes,Hyderabad,Aurangabad,Nagpur,Nanded,Bhavnagar,Amravati,Jalgaon,Ahmednagar,Bhuj,Any city
+Vasudha,12637,yes,yes,Goa,Hyderabad,Secunderabad,Kolhapur,Nagpur,Aurangabad,Gandhinagar,Surat,Ratnagiri,Anand
+Wankhede,12638,yes,yes,Any city,,,,,,,,,
+Surendran,12639,no,yes,Hyderabad,Bhavnagar,,,,,,,,
+T,12640,yes,yes,Ahmedabad,Gandhinagar,Nagpur,Kolhapur,Nanded,Solapur,Goa,Bhavnagar,Amravati,Aurangabad
+Sangita,12641,yes,no,Nagpur,Hyderabad,Jalgaon,Amravati,Nanded,Gandhinagar,Secunderabad,Hyderabad,Solapur,Kolhapur
+Abhishek,12642,yes,no,Mumbai,Navi Mumbai,Thane,,,,,,,
+Shraddha,12643,yes,yes,Secunderabad,Satara,Hyderabad,Vadodara,Pune,Aurangabad,Bhavnagar,Ahmedabad,Nashik,Nagpur
+Yogesh,12644,yes,yes,Rajkot,Bhuj,Sangli,Mehsana,Hyderabad,Secunderabad,Anand,Gandhinagar,Ahmednagar,Goa
+Jyoti,12645,yes,yes,Hyderabad,Ahmedabad,Kolhapur,Pune,,,,,,
+Kishore,12646,yes,yes,Pune,Kolhapur,Sangli,Any city,,,,,,
+Prakash,12647,yes,no,Vadodara,,,,,,,,,
+Amol,12648,yes,yes,Surat,Vadodara,Ratnagiri,Hyderabad,,,,,,
+R,12649,yes,yes,Hyderabad,Ahmedabad,Secunderabad,Rajkot,Vadodara,Bhavnagar,Nagpur,Satara,Gandhinagar,Nashik
+Irshad,12650,yes,yes,Pune,Nashik,Kolhapur,Satara,Surat,,,,,
+atul,12651,yes,yes,Pune,Nashik,Kolhapur,Satara,Ratnagiri,,,,,
+Sushma,12652,yes,yes,Solapur,Secunderabad,Rajkot,Sangli,Amravati,Nagpur,Ratnagiri,Pune,Nanded,Aurangabad
+Sapar,12653,yes,no,Rajkot,Hyderabad,Aurangabad,Pune,Nashik,Ratnagiri,Kolhapur,Nanded,Gandhinagar,Bhuj
+Mahesh,12654,yes,yes,Hyderabad,Ahmedabad,Kolhapur,Pune,Nashik,Solapur,Secunderabad,Aurangabad,,
+Archana,12655,yes,yes,Hyderabad,Goa,Gandhinagar,Kolhapur,Bhavnagar,Nagpur,Anand,,Ahmedabad,Nanded
+Sandip,12656,yes,yes,Surat,Hyderabad,Vadodara,Aurangabad,,Gandhinagar,,,,
+Priya,12657,yes,yes,Hyderabad,Secunderabad,Solapur,Goa,Aurangabad,Pune,Nagpur,Ahmedabad,Gandhinagar,Any city
+Arumugam,12658,yes,yes,Rajkot,Aurangabad,Vadodara,Nagpur,Ahmedabad,Gandhinagar,Hyderabad,Secunderabad,Kolhapur,Goa
+Geeta,12659,yes,yes,Hyderabad,Aurangabad,Nagpur,Ahmedabad,Secunderabad,Goa,Gandhinagar,Rajkot,Pune,Nashik
+Rajesh,12660,yes,yes,Kolhapur,Surat,Ratnagiri,Bhavnagar,Amravati,Anand,Nanded,Nagpur,Pune,Nashik
+Jose,12661,yes,no,Nashik,Nagpur,Kolhapur,Ahmednagar,Jalgaon,Hyderabad,Aurangabad,Nanded,Gandhinagar,Goa
+BISWA,12662,yes,yes,Goa,Bhuj,Hyderabad,Rajkot,Secunderabad,Amravati,Nanded,,,
+Rajesh,12663,yes,yes,Satara,Kolhapur,Goa,Hyderabad,Pune,Nashik,Ahmedabad,Nagpur,Surat,Anand
+Kumar,12664,yes,yes,Ahmedabad,Ahmednagar,Hyderabad,Gandhinagar,Bhavnagar,Goa,Hyderabad,Kolhapur,Nashik,Nagpur
+Nilesh,12665,yes,no,Mumbai,Navi Mumbai,Thane,,,,,,,
+Ajay,12666,yes,yes,Thane,Mumbai,Navi Mumbai,Hyderabad,Pune,,,,,
+Umesh,12667,no,yes,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai
+Nilam,12668,yes,no,Goa,Nagpur,Nashik,Pune,Ratnagiri,Gandhinagar,Hyderabad,Secunderabad,Aurangabad,Mumbai
+Akshada,12669,yes,yes,Rajkot,Nanded,Kolhapur,Ratnagiri,Bhavnagar,Mehsana,Bhuj,Goa,Pune,Solapur
+Bharat,12670,yes,yes,Ratnagiri,Aurangabad,Hyderabad,Secunderabad,Kolhapur,Nagpur,Nashik,Pune,Ahmedabad,Bhuj
+Pradeep,12671,no,yes,Hyderabad,Kolhapur,Solapur,Nagpur,Pune,Goa,Nashik,Bhavnagar,Bhuj,Aurangabad
+Deshmukh,12672,yes,yes,Ahmedabad,Ahmednagar,Hyderabad,Kolhapur,Nagpur,Goa,Any city,,,
+Vijay,12673,yes,no,Goa,Nagpur,,,,,,,,
+Nutan,12674,yes,yes,Mumbai,Navi Mumbai,Thane,Hyderabad,Mumbai,Navi Mumbai,Thane,Mumbai,Navi Mumbai,Thane
+pradip,12675,yes,yes,Secunderabad,Hyderabad,Nagpur,Aurangabad,Rajkot,Pune,,,,
+Dipti,12676,yes,yes,Nagpur,Secunderabad,Rajkot,Hyderabad,Gandhinagar,Jalgaon,Kolhapur,Surat,Jalgaon,Amravati
+radhendushka,12677,yes,yes,Any city,Ahmedabad,Solapur,Goa,Hyderabad,Kolhapur,Jalgaon,Surat,Pune,Nashik
+Sharadchandra,12678,yes,yes,Nanded,Kolhapur,Nashik,,Aurangabad,Pune,Amravati,,Nagpur,
+Ravaji,12679,yes,yes,Goa,Hyderabad,Nagpur,Sangli,Solapur,Kolhapur,Anand,Ahmedabad,Ratnagiri,Any city
+Supriya,12680,yes,yes,Any city,,,,,,,,,
+Kavita,12681,yes,yes,Ahmedabad,Anand,Bhavnagar,Rajkot,Gandhinagar,Kolhapur,Nanded,Bhuj,Surat,
+Shinde,12682,yes,yes,Pune,Secunderabad,Ratnagiri,Goa,Solapur,Satara,,,,
+Mahesh,12683,yes,no,Goa,Hyderabad,Mehsana,Secunderabad,Nagpur,,,,,
+Narendra,12684,yes,yes,Goa,,,,,,,,,
+V,12685,yes,yes,Ratnagiri,Ahmedabad,Hyderabad,Secunderabad,Gandhinagar,Bhuj,Rajkot,Goa,Satara,Aurangabad
+Ramesh,12686,yes,yes,Ahmedabad,Hyderabad,Secunderabad,Bhavnagar,Anand,Bhuj,Gandhinagar,Goa,Surat,Vadodara
+Mohan,12687,yes,no,Ahmedabad,Secunderabad,Hyderabad,Kolhapur,Satara,Aurangabad,Goa,Nashik,Pune,Bhuj
+Archana,12688,yes,yes,Hyderabad,Secunderabad,,,,,,,,
+Vishwas,12689,yes,yes,Rajkot,Hyderabad,Secunderabad,Vadodara,Ahmedabad,Nanded,Kolhapur,Solapur,Nagpur,Goa
+Priyanka,12690,yes,no,Goa,Nagpur,Rajkot,Bhuj,Anand,Gandhinagar,Ahmedabad,Bhavnagar,Mehsana,Hyderabad
+Pillai,12691,no,yes,Hyderabad,,,,,,,,,
+Dr,12692,yes,yes,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai,Mumbai
+Dhanshri,12693,yes,yes,Any city,Ahmedabad,Aurangabad,Nagpur,Nanded,Nashik,Bhavnagar,Anand,Jalgaon,Kolhapur
