@@ -1,0 +1,6 @@
+SNo,CourseCode,CourseName,CourseSlot,CourseNeeds,runningNeeds,CourseEligiblity
+1,C1,Course Name 1,2,1,1,EE1
+2,C2,Course Name 2,11,3,4,EE3
+3,C3,Course Name 3,8,1,5,EE2
+4,C4,Course Name 4,4,2,7,EE5
+5,C5,Course Name 5,3,2,9,EE4
