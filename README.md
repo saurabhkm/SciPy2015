@@ -1,1 +1,1 @@
-# SciPy2015
+# Pandas for Data Analysis Workshop files.
